@@ -1,0 +1,2 @@
+pip install Flask scikit-learn numpy pickle-mixin PyPDF2 pdfminer.six Groq flask_cors tika
+python -m spacy download en_core_web_sm
